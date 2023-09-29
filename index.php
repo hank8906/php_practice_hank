@@ -21,6 +21,8 @@
         <input type="text" name="quantity"><br>
         <input type="submit" value="total">
     </form>
+
+    
 </body>
 </html>
 
